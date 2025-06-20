@@ -1,0 +1,8 @@
+# Ignore virtual environment
+ml/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
